@@ -1,0 +1,52 @@
+name: Refresh API catalog
+
+on:
+  schedule:
+    # Twice a month: 06:30 UTC on the 1st and 15th
+    - cron: "30 6 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Clone the two list repos the scrapers parse
+        run: |
+          git clone --depth 1 https://github.com/ripienaar/free-for-dev /tmp/free-for-dev
+          git clone --depth 1 https://github.com/marcelscruz/public-apis /tmp/public-apis
+
+      - name: Scrape all five sources
+        run: |
+          python3 scrapers/scrape_apisguru.py
+          python3 scrapers/scrape_publicapisio.py
+          python3 scrapers/scrape_freepublicapis.py
+          python3 scrapers/scrape_free_for_dev.py /tmp/free-for-dev
+          python3 scrapers/scrape_public_apis.py /tmp/public-apis
+
+      - name: Merge, dedupe, export, report
+        run: |
+          python3 scrapers/merge.py
+          python3 scrapers/dedupe.py
+          python3 scrapers/export_sqlite.py
+          python3 scrapers/gen_report.py
+
+      - name: Commit refreshed artifacts
+        run: |
+          git config user.name "dorkagent"
+          git config user.email "dork@agentmail.to"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No catalog changes."
+          else
+            git commit -m "Refresh API catalog (automated)"
+            git push
+          fi

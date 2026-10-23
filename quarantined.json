@@ -1,0 +1,671 @@
+[
+ {
+  "name": "Advanced Multilanguage AI Translator (RapidAPI)",
+  "description": "AI-powered translator supporting multiple languages with fast, context-aware responses",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/advanced-multilanguage-ai-translator-api-with-fast-responses",
+  "category": "AI",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "AI Learning Engine",
+  "description": "Create, auto-grade, and analyze learning tasks with AI-based evaluations",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/ai-learning-engine-task-creation-auto-grading-api",
+  "category": "AI",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "AI Meeting Minutes Suite",
+  "description": "Generate summaries, templates, and redact sensitive data from meeting notes",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/ai-meeting-minutes-suite-summaries-templates-redaction",
+  "category": "Documents & Productivity",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "AI Text Moderation, Toxicity & Sentiment Analyzer",
+  "description": "Detect sentiment, toxicity, and emotional aspects in text with AI moderation",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/ai-text-moderation-toxicity-aspects-sentiment-analyzer",
+  "category": "Text Analysis",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Bullbear Advisors",
+  "description": "See strong buy and sell signals the day they occur. Get today's stocks that closed with a strong Bullish or Bearish candlestick.",
+  "docs_url": "https://rapidapi.com/otha1920/api/bullbear-advisor",
+  "website": "https://rapidapi.com/otha1920/api/bullbear-advisor",
+  "category": "Finance",
+  "auth": "none",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "No"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Design DNA API",
+  "description": "Design DNA turns any public website into a structured measuring system by extracting its typography, colors, and layout in a single API call. The API allows users to analyze and retrieve a website's design elements in real-time, making it ideal for design tooling and competitive audits.",
+  "docs_url": "https://rapidapi.com/rajimisonpaul/api/design-dna",
+  "website": "https://rapidapi.com/rajimisonpaul/api/design-dna",
+  "category": null,
+  "auth": "none",
+  "pricing_free": "free \u2014 MIT-licensed open-source tool on GitHub; no pricing, installable plugin.",
+  "free_tier_known": true,
+  "health": 25,
+  "provenance": [
+   "freepublicapis"
+  ],
+  "source_ids": {
+   "freepublicapis": "design-dna-api"
+  },
+  "extra": {
+   "key_features": [
+    "Measure pixels into tokens",
+    "Generate light/dark theme tokens",
+    "Build sandbox lab replica",
+    "Verify rebuilds by measurement",
+    "Claude/agent plugin integrations"
+   ],
+   "faq": [
+    {
+     "answer": "No \u2014 Design DNA is an open-source tool and plugin you install locally; no API key or signup is required.",
+     "question": "Do I need an API key to use it?"
+    },
+    {
+     "answer": "Yes \u2014 the project is MIT-licensed on GitHub, which allows commercial use and modification.",
+     "question": "Can I use it commercially in my projects?"
+    },
+    {
+     "answer": "You give it reference images/screenshots; it returns measured reference docs, token files, a sandbox replica, and verification data.",
+     "question": "What input and output should I expect?"
+    }
+   ]
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "FCC ULS Daily Change Archive",
+  "description": "Day-resolution archive of FCC ULS license change events, including days the FCC's own seven-day feed has overwritten. Coverage from 2026-08-18",
+  "docs_url": "https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive",
+  "website": "https://rapidapi.com/marlinloots3r/api/fcc-uls-daily-change-archive",
+  "category": "Government",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Flight Fare Search",
+  "description": "Search for realtime flight fares across destinations",
+  "docs_url": "https://rapidapi.com/farish978/api/flight-fare-search",
+  "website": "https://rapidapi.com/farish978/api/flight-fare-search",
+  "category": "Transportation",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Football",
+  "description": "A simple Open Source Football API to get squads\u2019 stats, best scorers and more",
+  "docs_url": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+  "website": "https://rapidapi.com/GiulianoCrescimbeni/api/football98/",
+  "category": "Sports & Fitness",
+  "auth": "X-Mashape-Key",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Humble Bundle",
+  "description": "Humble Bundle's current bundles",
+  "docs_url": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+  "website": "https://rapidapi.com/Ziggoto/api/humble-bundle",
+  "category": "Games & Comics",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Inferdo",
+  "description": "Computer Vision services like Facial detection, Image labeling, NSFW classification",
+  "docs_url": "https://rapidapi.com/user/inferdo",
+  "website": "https://rapidapi.com/user/inferdo",
+  "category": "AI",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "IP Details API",
+  "description": "Geographic location of an IP address or any domain name along with some other useful information",
+  "docs_url": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
+  "website": "https://rapidapi.com/Bluehatcoders/api/ip-details-api",
+  "category": "Development",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "LeakInsight",
+  "description": "Find leaked or exposed credentials by email, username, phone, domain, hash, or breach origin",
+  "docs_url": "https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/",
+  "website": "https://rapidapi.com/codigo6-codigo6-default/api/leakinsight-api/",
+  "category": "Security",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Lecto Translation",
+  "description": "Translation API with free tier and reasonable prices",
+  "docs_url": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+  "website": "https://rapidapi.com/lecto-lecto-default/api/lecto-translation/",
+  "category": "Text Analysis",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Mangapi",
+  "description": "Translate manga pages from one language to another",
+  "docs_url": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+  "website": "https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/",
+  "category": "Anime",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Multilingual AI Zodiac",
+  "description": "Personalized daily horoscopes and zodiac insights in 100+ languages",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-ai-zodiac-customized-horoscopes-for-all-signs",
+  "category": "Entertainment",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Multilingual Truth or Dare Game",
+  "description": "Truth or Dare party/date game with multilingual support and random challenges",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/multilingual-truth-or-dare-party-date-game-api",
+  "category": "Games & Comics",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "NBA Data",
+  "description": "All NBA Stats DATA, Games, Livescore, Standings, Statistics",
+  "docs_url": "https://rapidapi.com/api-sports/api/api-nba/",
+  "website": "https://rapidapi.com/api-sports/api/api-nba/",
+  "category": "Sports & Fitness",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "NewsX",
+  "description": "Get or Search Latest Breaking News with ML Powered Summaries \ud83e\udd16",
+  "docs_url": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+  "website": "https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/",
+  "category": "News",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Poker Odds Equity EV Calculator & Advice",
+  "description": "Poker odds, equity & EV calculator with hand/decision advice",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/poker-odds-equity-ev-calculator-advice-api",
+  "category": "Games & Comics",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Premier League Standings",
+  "description": "All Current Premier League Standings and Statistics",
+  "docs_url": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+  "website": "https://rapidapi.com/heisenbug/api/premier-league-live-scores/",
+  "category": "Sports & Fitness",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Random Identity",
+  "description": "Random Identity Generator with custom response format",
+  "docs_url": "https://rapidapi.com/edualc1018/api/random-identity-generator",
+  "website": "https://rapidapi.com/edualc1018/api/random-identity-generator",
+  "category": "Test Data",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Rwanda Locations",
+  "description": "Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets",
+  "docs_url": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+  "website": "https://rapidapi.com/victorkarangwa4/api/rwanda",
+  "category": "Geocoding",
+  "auth": "none",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Safe text",
+  "description": "Clean short and long texts. It is probably world most complete text-cleaner API! Providing very fast and accurate results.",
+  "docs_url": "https://rapidapi.com/bacloud14/api/safe-text",
+  "website": "https://rapidapi.com/bacloud14/api/safe-text",
+  "category": "Text Analysis",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Scrax",
+  "description": "Success-only web scraping API \u2014 credits are only charged when a scrape actually succeeds, no charge on failed requests",
+  "docs_url": "https://rapidapi.com/mtaahoperators/api/scrax",
+  "website": "https://rapidapi.com/mtaahoperators/api/scrax",
+  "category": "Development",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "No"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Smart Adaptive Ultra-Fast Image Compressor & Converter",
+  "description": "Compress, convert, and optimize images automatically with adaptive AI tuning",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/smart-adaptive-ultra-fast-image-compressor-converter",
+  "category": "Photography",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Tasty",
+  "description": "API to query data about recipe, plan, ingredients",
+  "docs_url": "https://rapidapi.com/apidojo/api/tasty/",
+  "website": "https://rapidapi.com/apidojo/api/tasty/",
+  "category": "Food & Drink",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {},
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Telize",
+  "description": "Telize offers location information from any IP address",
+  "docs_url": "https://rapidapi.com/fcambus/api/telize/",
+  "website": "https://rapidapi.com/fcambus/api/telize/",
+  "category": "Geocoding",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Trackr TMS",
+  "description": "Trackr API makes it easy to create, assign, and track shipments, with driver support, movement history, and more",
+  "docs_url": "https://rapidapi.com/jccm6/api/trackr-tms",
+  "website": "https://rapidapi.com/jccm6/api/trackr-tms",
+  "category": "Transportation",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "No"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Udemy Coupons, Courses & Instructors Data",
+  "description": "Retrieve Udemy courses, coupons, instructors, and metadata",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/udemy-coupons-courses-instructors-data-api",
+  "category": "Open Data",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "uNoGS",
+  "description": "Unofficial Netflix Online Global Search, Search all netflix regions in one place",
+  "docs_url": "https://rapidapi.com/unogs/api/unogsng",
+  "website": "https://rapidapi.com/unogs/api/unogsng",
+  "category": "Video",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "USPTO Trademark",
+  "description": "Trademark keyword search, availability, owner, serial search, attorney info, MCP ready",
+  "docs_url": "https://rapidapi.com/pentium10/api/uspto-trademark",
+  "website": "https://rapidapi.com/pentium10/api/uspto-trademark",
+  "category": "Business",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "Web Metadata Extractor",
+  "description": "This API allows users to extract OpenGraph metadata, SEO tags, social media links, public emails, phone numbers, and technology stack information from any given URL. It provides essential data to help understand the web presence and digital footprint of websites quickly and efficiently.",
+  "docs_url": "https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor",
+  "website": "https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor",
+  "category": null,
+  "auth": "api_key",
+  "pricing_free": "paid \u2014 RapidAPI marketplace lists paid plans; demo available without signup but is rate-limited.",
+  "free_tier_known": true,
+  "health": 95,
+  "provenance": [
+   "freepublicapis"
+  ],
+  "source_ids": {
+   "freepublicapis": "web-metadata-extractor"
+  },
+  "extra": {
+   "key_features": [
+    "Extracts SEO and OpenGraph metadata",
+    "Public email and phone extraction",
+    "Detects 40+ web technologies",
+    "AI-ready Markdown output",
+    "14-point on-page SEO audit",
+    "Fast ~150\u2013300ms responses"
+   ],
+   "faq": [
+    {
+     "answer": "You can try the no-signup demo, but for programmatic use get a RapidAPI key and send it in request headers.",
+     "question": "Do I need an API key to use the API?"
+    },
+    {
+     "answer": "There is a free demo route that is rate-limited by IP; production access is billed via RapidAPI plans or self-hosting.",
+     "question": "Is there a free tier or limits?"
+    },
+    {
+     "answer": "No \u2014 the contacts endpoint returns public emails/phones found on the page and does not verify ownership or provide role enrichment.",
+     "question": "Are contact results verified for lead enrichment?"
+    }
+   ],
+   "avg_reliability": 100,
+   "avg_latency": 237
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ },
+ {
+  "name": "World Fun Facts (RapidAPI)",
+  "description": "Fun and interesting facts with multi-language support",
+  "docs_url": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
+  "website": "https://rapidapi.com/vintarok-vintarok-default/api/world-fun-facts-all-languages-support",
+  "category": "Entertainment",
+  "auth": "apiKey",
+  "pricing_free": null,
+  "free_tier_known": false,
+  "health": null,
+  "provenance": [
+   "public-apis"
+  ],
+  "source_ids": {},
+  "extra": {
+   "cors": "Yes"
+  },
+  "quarantine_reason": "rapidapi-marketplace-listing"
+ }
+]
