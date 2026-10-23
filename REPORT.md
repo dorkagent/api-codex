@@ -1,52 +1,52 @@
 # API Codex — Scrape Report
 
-**Generated:** 2026-10-12 04:17 UTC
+**Generated:** 2026-10-23 16:29 UTC
 
 ## Per-source counts (raw)
 
 | Source | Records | Notes |
 |---|---|---|
-| freepublicapis | 727 | sitemap + detail pages, embedded devalue JSON; richest free-tier data |
-| publicapis.io | 1449 | 44 category pages, embedded __NEXT_DATA__ JSON |
+| freepublicapis | 799 | sitemap + detail pages, embedded devalue JSON; richest free-tier data |
+| publicapis.io | 1450 | 44 category pages, embedded __NEXT_DATA__ JSON |
 | apis.guru | 2529 | single list.json, OpenAPI-described providers |
-| public-apis | 1844 | marcelscruz/public-apis README tables (shallow clone) |
-| free-for-dev | 1316 | ripienaar/free-for-dev README entries (shallow clone) |
+| public-apis | 1883 | marcelscruz/public-apis README tables (shallow clone) |
+| free-for-dev | 1340 | ripienaar/free-for-dev README entries (shallow clone) |
 
 ## Merged catalog
 
-- **Total unique APIs:** 6567
-- With free-tier info (`free_tier_known`): 1983 (30.2%)
-- With docs URL: 5873 (89.4%)
-- Listed in 2+ sources: 856 (13.0%)
+- **Total unique APIs:** 6690
+- With free-tier info (`free_tier_known`): 2078 (31.1%)
+- With docs URL: 5996 (89.6%)
+- Listed in 2+ sources: 867 (13.0%)
 
 ### Top categories
 
-- uncategorized: 2621
-- Development: 277
-- Geocoding: 142
-- Games & Comics: 137
-- Transportation: 128
-- Finance: 126
-- Government: 114
-- Cryptocurrency: 112
-- Email: 101
-- APIs, Data, and ML: 99
-- Open Data: 91
+- uncategorized: 2685
+- Development: 282
+- Geocoding: 145
+- Games & Comics: 139
+- Transportation: 127
+- Finance: 120
+- Cryptocurrency: 115
+- Government: 113
+- Email: 108
+- APIs, Data, and ML: 100
+- Open Data: 93
+- Social: 85
 - Video: 84
-- Tools for Teams and Collaboration: 80
-- Social: 80
-- Documents & Productivity: 73
+- Tools for Teams and Collaboration: 83
+- Documents & Productivity: 76
 
 ### Auth breakdown (top 10)
 
-- unknown: 4160
-- none: 1173
-- apiKey: 947
-- OAuth: 148
-- api_key: 95
-- bearer: 32
-- X-Mashape-Key: 5
-- other: 4
+- unknown: 4181
+- none: 1235
+- apiKey: 972
+- OAuth: 147
+- api_key: 102
+- bearer: 39
+- X-Mashape-Key: 6
+- other: 5
 - basic: 2
 - User-Agent: 1
 

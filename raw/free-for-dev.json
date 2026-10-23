@@ -623,6 +623,13 @@
   "category": "APIs, Data, and ML"
  },
  {
+  "name": "App AI Gateway",
+  "url": "https://appaigateway.com/",
+  "description": "Gateway/proxy for calling AI providers from iOS applications without shipping provider keys or building your own backend. Only allows requests from your real app via App Attest, with rate limits and budgets per user and per app. The free plan includes 1,000 requests per month, no card required.",
+  "free_tier": "Gateway/proxy for calling AI providers from iOS applications without shipping provider keys or building your own backend. Only allows requests from your real app via App Attest, with rate limits and budgets per user and per app. The free plan includes 1,000 requests per month, no card required.",
+  "category": "APIs, Data, and ML"
+ },
+ {
   "name": "Beeceptor",
   "url": "https://beeceptor.com",
   "description": "No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing. The free plan includes 50 requests per day and provides a public dashboard/endpoint where anyone with the dashboard URL can view submitted requests and responses.",
@@ -711,6 +718,13 @@
   "url": "https://conversiontools.io/",
   "description": "Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).",
   "free_tier": "Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).",
+  "category": "APIs, Data, and ML"
+ },
+ {
+  "name": "cors.dev",
+  "url": "https://cors.dev/",
+  "description": "CORS proxy for calling third-party APIs from frontend code: prefix any HTTPS URL with `https://proxy.cors.dev/`. Free without signup or an API key for GET and HEAD requests, 600 requests per minute per IP, responses up to 1 MiB, no monthly quota.",
+  "free_tier": "CORS proxy for calling third-party APIs from frontend code: prefix any HTTPS URL with `https://proxy.cors.dev/`. Free without signup or an API key for GET and HEAD requests, 600 requests per minute per IP, responses up to 1 MiB, no monthly quota.",
   "category": "APIs, Data, and ML"
  },
  {
@@ -840,17 +854,17 @@
   "category": "APIs, Data, and ML"
  },
  {
-  "name": "DocPenny",
-  "url": "https://docpenny.com",
-  "description": "HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.",
-  "free_tier": "HTML to PDF document generation with templates, webhook delivery, and credit-based pricing. Free plan with 50 monthly credits, no credit card required.",
-  "category": "APIs, Data, and ML"
- },
- {
   "name": "Doqlo",
   "url": "https://doqlo.com/",
   "description": "Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.",
   "free_tier": "Bulk fill and mail merge PDF forms from CSV using the web app or Public API. The free plan includes 100 output PDFs/month.",
+  "category": "APIs, Data, and ML"
+ },
+ {
+  "name": "Dynamic Document API",
+  "url": "https://dynamicdocumentapi.com/",
+  "description": "Turn data into pixel-perfect PDFs and images. The free plan includes 50 renders per month and access to 2 templates from the template gallery or your own.",
+  "free_tier": "Turn data into pixel-perfect PDFs and images. The free plan includes 50 renders per month and access to 2 templates from the template gallery or your own.",
   "category": "APIs, Data, and ML"
  },
  {
@@ -1127,6 +1141,13 @@
   "category": "APIs, Data, and ML"
  },
  {
+  "name": "Jsonpage",
+  "url": "https://jsonpage.com/en/",
+  "description": "Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.",
+  "free_tier": "Company data API for France and 13 other countries (SIREN, SIRET, VAT check). Free plan: 1,000 requests per day, no credit card.",
+  "category": "APIs, Data, and ML"
+ },
+ {
   "name": "Labelixa",
   "url": "https://labelixa.com",
   "description": "Zebra ZPL label rendering and validation API and browser viewer. Free tier includes an anonymous rendering quota and barcode generation with no watermark, no card required.",
@@ -1348,6 +1369,13 @@
   "url": "https://requestbin.com",
   "description": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
   "free_tier": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
+  "category": "APIs, Data, and ML"
+ },
+ {
+  "name": "ROIC.ai",
+  "url": "https://www.roic.ai/",
+  "description": "Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.",
+  "free_tier": "Financial Data API: income statements, balance sheets and cash flows, and earnings call transcripts (with audio and slides) for 68k+ companies. Free tier: 5 requests/minute, 2 years of history, no credit card.",
   "category": "APIs, Data, and ML"
  },
  {
@@ -1687,6 +1715,13 @@
   "category": "Tools for Teams and Collaboration"
  },
  {
+  "name": "Enchant",
+  "url": "https://www.enchant.com",
+  "description": "Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.",
+  "free_tier": "Omnichannel customer communication platform. Free tier includes chat widgets, email newsletters, link-in-bio hub & more.",
+  "category": "Tools for Teams and Collaboration"
+ },
+ {
   "name": "evernote.com",
   "url": "https://evernote.com/",
   "description": "Tool for organizing information. Share your notes and work together with others",
@@ -1820,6 +1855,13 @@
   "category": "Tools for Teams and Collaboration"
  },
  {
+  "name": "MergeMe",
+  "url": "https://mergeme.dev/",
+  "description": "MergeMe brings GitHub/GitLab PRs/MRs directly into Slack as 1 constantly updating card. It adds CI status, mirrored comments, @mentions, reminders & more. Free for teams up to 5 developers & 1 channel mapping.",
+  "free_tier": "MergeMe brings GitHub/GitLab PRs/MRs directly into Slack as 1 constantly updating card. It adds CI status, mirrored comments, @mentions, reminders & more. Free for teams up to 5 developers & 1 channel mapping.",
+  "category": "Tools for Teams and Collaboration"
+ },
+ {
   "name": "Miro",
   "url": "https://miro.com/",
   "description": "Scalable, secure, cross-device, and enterprise-ready collaboration whiteboard for distributed teams. With a freemium plan.",
@@ -1866,6 +1908,13 @@
   "url": "https://pendulums.io/",
   "description": "Pendulums is a free time tracking tool that helps you manage your time in a better manner with an easy-to-use interface and valuable statistics.",
   "free_tier": "Pendulums is a free time tracking tool that helps you manage your time in a better manner with an easy-to-use interface and valuable statistics.",
+  "category": "Tools for Teams and Collaboration"
+ },
+ {
+  "name": "Pin Feed",
+  "url": "https://pinfeed.io/",
+  "description": "Pin Feed is a website feedback tool to comment on live client website. Free for up to 3 projects with 500 MB storage. Clients can leave feedback without an account.",
+  "free_tier": "Pin Feed is a website feedback tool to comment on live client website. Free for up to 3 projects with 500 MB storage. Clients can leave feedback without an account.",
   "category": "Tools for Teams and Collaboration"
  },
  {
@@ -2268,13 +2317,6 @@
   "category": "Code Generation"
  },
  {
-  "name": "Karbon Sites",
-  "url": "https://www.karbonsites.space",
-  "description": "An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).",
-  "free_tier": "An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).",
-  "category": "Code Generation"
- },
- {
   "name": "Metalama",
   "url": "https://www.postsharp.net/metalama",
   "description": "A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.",
@@ -2398,6 +2440,13 @@
   "url": "https://gtmetrix.com/",
   "description": "Reports and thorough recommendations to optimize websites",
   "free_tier": "Reports and thorough recommendations to optimize websites",
+  "category": "Code Quality"
+ },
+ {
+  "name": "HeyDeer",
+  "url": "https://heydeer.ai/",
+  "description": "AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.",
+  "free_tier": "AI code review for GitHub pull requests. Free plan includes 1,000 credits in the first month and 300 credits monthly after that, including private repositories. Public repository reviews are free within fair-use limits. No credit card required.",
   "category": "Code Quality"
  },
  {
@@ -2849,6 +2898,13 @@
   "category": "Testing"
  },
  {
+  "name": "UI Verify",
+  "url": "https://uiverify.ai",
+  "description": "Visual regression testing for Storybook, Playwright and Vitest, built for coding agents. 10,000 snapshots per month free, no credit card. 50,000 per month for open-source projects.",
+  "free_tier": "Visual regression testing for Storybook, Playwright and Vitest, built for coding agents. 10,000 snapshots per month free, no credit card. 50,000 per month for open-source projects.",
+  "category": "Testing"
+ },
+ {
   "name": "UseWebhook.com",
   "url": "https://usewebhook.com",
   "description": "Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.",
@@ -3122,6 +3178,13 @@
   "category": "Security and PKI"
  },
  {
+  "name": "SubdomainWatch",
+  "url": "https://www.subdomainwatch.com/",
+  "description": "Attack surface monitoring and CI/CD takeover guard. Free standalone DNS scanner, GitHub Action with SARIF export, and continuous asset monitoring tier.",
+  "free_tier": "Attack surface monitoring and CI/CD takeover guard. Free standalone DNS scanner, GitHub Action with SARIF export, and continuous asset monitoring tier.",
+  "category": "Security and PKI"
+ },
+ {
   "name": "Sucuri SiteCheck",
   "url": "https://sitecheck.sucuri.net",
   "description": "Free website security check and malware scanner",
@@ -3238,6 +3301,13 @@
   "url": "https://duo.com/",
   "description": "Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.",
   "free_tier": "Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.",
+  "category": "Authentication, Authorization, and User Management"
+ },
+ {
+  "name": "Frontegg",
+  "url": "https://frontegg.com",
+  "description": "Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and multi-tenant user management. The free plan includes 7,500 MAUs",
+  "free_tier": "Customer identity for B2B SaaS: authentication, SSO/SCIM, MFA, RBAC and multi-tenant user management. The free plan includes 7,500 MAUs",
   "category": "Authentication, Authorization, and User Management"
  },
  {
@@ -3511,6 +3581,13 @@
   "url": "https://novu.co",
   "description": "The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.",
   "free_tier": "The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.",
+  "category": "Messaging and Streaming"
+ },
+ {
+  "name": "ntail.io",
+  "url": "https://ntail.io/",
+  "description": "Serverless Apache Kafka streaming service. The free plan includes 200 KiB/s in, 400 KiB/s out, 1-day retention and up to 10 topics. No card required and no time limit.",
+  "free_tier": "Serverless Apache Kafka streaming service. The free plan includes 200 KiB/s in, 400 KiB/s out, 1-day retention and up to 10 topics. No card required and no time limit.",
   "category": "Messaging and Streaming"
  },
  {
@@ -3955,6 +4032,13 @@
   "category": "Monitoring"
  },
  {
+  "name": "Monitorable",
+  "url": "https://monitorable.io",
+  "description": "Server health monitoring for Linux (bare metal, VMs, LXC): host and Docker metrics, systemd services and SMART disk health, with alerting, OpenTelemetry Collector agent. Free for 3 servers, no card required.",
+  "free_tier": "Server health monitoring for Linux (bare metal, VMs, LXC): host and Docker metrics, systemd services and SMART disk health, with alerting, OpenTelemetry Collector agent. Free for 3 servers, no card required.",
+  "category": "Monitoring"
+ },
+ {
   "name": "MonitorMonk",
   "url": "https://monitormonk.com",
   "description": "Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.",
@@ -3987,6 +4071,13 @@
   "url": "https://cntest.ontarionet.ca",
   "description": "Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.",
   "free_tier": "Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.",
+  "category": "Monitoring"
+ },
+ {
+  "name": "OpenUptime",
+  "url": "https://openuptime.app",
+  "description": "Hosted uptime monitoring and status pages. Free tier includes 3 active monitors with 5-minute check intervals, 26,000 checks and 100 emails per month, and 30 days of check history.",
+  "free_tier": "Hosted uptime monitoring and status pages. Free tier includes 3 active monitors with 5-minute check intervals, 26,000 checks and 100 emails per month, and 30 days of check history.",
   "category": "Monitoring"
  },
  {
@@ -4043,6 +4134,13 @@
   "url": "https://pulsetic.com",
   "description": "10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.",
   "free_tier": "10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.",
+  "category": "Monitoring"
+ },
+ {
+  "name": "Relvato",
+  "url": "https://www.relvato.com",
+  "description": "Continuous website monitoring - Relvato rechecks all your site vitals (performance, critical user journeys, visual design, security, SEO, legal compliance, accessibility etc) after every code update. Free for one site, no card needed. MCP also available.",
+  "free_tier": "Continuous website monitoring - Relvato rechecks all your site vitals (performance, critical user journeys, visual design, security, SEO, legal compliance, accessibility etc) after every code update. Free for one site, no card needed. MCP also available.",
   "category": "Monitoring"
  },
  {
@@ -4319,6 +4417,13 @@
   "category": "Search"
  },
  {
+  "name": "BylineCV",
+  "url": "https://bylinecv.com/",
+  "description": "Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.",
+  "free_tier": "Form-based CV and cover letter builder to pass ATS filters and organize all your versions in one place. Free forever for core CV building, exports, and storage, with daily AI limits.",
+  "category": "Education and Career Development"
+ },
+ {
   "name": "Cisco Networking Academy, Skills for All",
   "url": "https://skillsforall.com/",
   "description": "Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.",
@@ -4589,6 +4694,13 @@
   "url": "https://dkimvalidator.com/",
   "description": "Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com",
   "free_tier": "Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com",
+  "category": "Email"
+ },
+ {
+  "name": "DMARCmetric",
+  "url": "https://dmarcmetric.com/",
+  "description": "DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.",
+  "free_tier": "DMARC report monitoring with named sending sources, SPF/DKIM alignment and plain-English summaries. Free for 1 domain: 10,000 messages/month, 30-day history, email alerts, no credit card.",
   "category": "Email"
  },
  {
@@ -4900,6 +5012,13 @@
   "category": "Email"
  },
  {
+  "name": "SignupVet",
+  "url": "https://www.signupvet.com",
+  "description": "An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.",
+  "free_tier": "An API that checks email, phone and IP of new signups. 250 free checks per month, no credit card.",
+  "category": "Email"
+ },
+ {
   "name": "SimpleLogin",
   "url": "https://simplelogin.io/",
   "description": "Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).",
@@ -5016,6 +5135,13 @@
   "url": "https://configcat.com",
   "description": "ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.",
   "free_tier": "ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.",
+  "category": "Feature Toggles Management Platforms"
+ },
+ {
+  "name": "Flagpool",
+  "url": "https://www.flagpool.io/en/",
+  "description": "Feature flag management platform with a focus on simplicity and ease of use. Free plan includes creating up to 10 new flags per month, unlimited requests and targeting rules.",
+  "free_tier": "Feature flag management platform with a focus on simplicity and ease of use. Free plan includes creating up to 10 new flags per month, unlimited requests and targeting rules.",
   "category": "Feature Toggles Management Platforms"
  },
  {
@@ -5814,6 +5940,20 @@
   "url": "https://snapdeploy.dev/",
   "description": "Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.",
   "free_tier": "Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.",
+  "category": "PaaS"
+ },
+ {
+  "name": "Staxa",
+  "url": "https://staxa.dev/",
+  "description": "Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.",
+  "free_tier": "Multi-tenant app hosting: each tenant gets its own app, database, subdomain and TLS in an isolated Kubernetes namespace through either a web app or API integration. Free tier includes 2 tenants with up to 2 services each (0.5 vCPU, 512 MB), free apps sleep after 24 hours of being idle.",
+  "category": "PaaS"
+ },
+ {
+  "name": "The Vibe Hosting",
+  "url": "https://thevibehosting.com/",
+  "description": "Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.",
+  "free_tier": "Frictionless vibe hosting for coding agents. One curl gets your agent a root Linux box on an HTTPS subdomain within seconds. Free tier: 2-core, 512 MB server 24/7 with a verified phone, no credit card.",
   "category": "PaaS"
  },
  {
@@ -6766,6 +6906,13 @@
   "url": "https://www.acunote.com/",
   "description": "Free project management and SCRUM software for up to 5 team members",
   "free_tier": "Free project management and SCRUM software for up to 5 team members",
+  "category": "Issue Tracking and Project Management"
+ },
+ {
+  "name": "AgileHero",
+  "url": "https://agilehero.io/",
+  "description": "All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.",
+  "free_tier": "All-in-one project management tool. Free plan includes kanban board, backlog, epics, estimation poker, MCP server, REST API and webhooks for 2 users.",
   "category": "Issue Tracking and Project Management"
  },
  {
@@ -7896,6 +8043,13 @@
   "category": "Data Visualization on Maps"
  },
  {
+  "name": "opengeocoding.com",
+  "url": "https://opengeocoding.com",
+  "description": "Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.",
+  "free_tier": "Source-available geocoder in Rust: address search, autocomplete and reverse geocoding on open data. Self-host it or use the hosted API. Fifty thousand free queries/month.",
+  "category": "Data Visualization on Maps"
+ },
+ {
   "name": "osmnames",
   "url": "https://osmnames.org/",
   "description": "Geocoding, search results ranked by the popularity of related Wikipedia page.",
@@ -7914,6 +8068,13 @@
   "url": "https://stadiamaps.com/",
   "description": "Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.",
   "free_tier": "Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.",
+  "category": "Data Visualization on Maps"
+ },
+ {
+  "name": "waymorphic.com",
+  "url": "https://waymorphic.com/",
+  "description": "Vector map tiles (OpenMapTiles schema), MapLibre styles, geocoding and reverse geocoding APIs. No API key, no request limit, fair use policy.",
+  "free_tier": "Vector map tiles (OpenMapTiles schema), MapLibre styles, geocoding and reverse geocoding APIs. No API key, no request limit, fair use policy.",
   "category": "Data Visualization on Maps"
  },
  {
@@ -8852,6 +9013,13 @@
   "url": "https://thumbnail.ws",
   "description": "API for generating thumbnails of websites. Free 1,000 requests/month.",
   "free_tier": "API for generating thumbnails of websites. Free 1,000 requests/month.",
+  "category": "Screenshot APIs"
+ },
+ {
+  "name": "localscreenshot",
+  "url": "https://localscreenshot.com",
+  "description": "Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.",
+  "free_tier": "Screenshot API that turns any public page into an image or a PDF, from 227 countries, with cookie banners, ads and chat widgets hidden. Also runs as an MCP server, so AI agents take screenshots on their own. Free plan includes 50 screenshots every month, no card required.",
   "category": "Screenshot APIs"
  },
  {

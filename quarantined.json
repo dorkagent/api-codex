@@ -645,7 +645,7 @@
     }
    ],
    "avg_reliability": 100,
-   "avg_latency": 237
+   "avg_latency": 214
   },
   "quarantine_reason": "rapidapi-marketplace-listing"
  },

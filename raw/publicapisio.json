@@ -11145,6 +11145,15 @@
   "logolink": "https://c1.tablecdn.com/pa/vk-api.jpg"
  },
  {
+  "title": "5DollarFootballAPI",
+  "description": "Cheap football (soccer) data API from $5/month, with a free tier. Fixtures, live scores, standings and tick-by-tick odds from bet365 and 19 other bookmakers, including corner and card lines.",
+  "category": "Sports & Fitness",
+  "category_id": "sports-and-fitness",
+  "slug": "5dollarfootballapi-api",
+  "website": "https://5dollarfootballapi.com",
+  "logolink": "/assets/5dollarfootballapi-logo.svg"
+ },
+ {
   "title": "iSports API",
   "description": "Access data of 2,000+ football leagues and 800+ basketball leagues: live data, stats, odds, database, animation etc.",
   "category": "Sports & Fitness",
