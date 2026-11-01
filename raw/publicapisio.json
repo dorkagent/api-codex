@@ -4355,6 +4355,15 @@
   "logolink": "/assets/firma-logo.png"
  },
  {
+  "slug": "docspring-api",
+  "title": "DocSpring",
+  "website": "https://docspring.com",
+  "category": "Documents & Productivity",
+  "logolink": "/assets/docspring-api-logo.png",
+  "category_id": "documents-and-productivity",
+  "description": "DocSpring fills PDF forms, Word documents, and HTML templates with JSON data and collects e-signatures via API."
+ },
+ {
   "title": "fynk API",
   "description": "Generate, update, and manage contracts from your own systems with a secure and scalable REST API.",
   "category": "Documents & Productivity",

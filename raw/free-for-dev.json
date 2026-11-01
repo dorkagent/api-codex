@@ -1309,6 +1309,13 @@
   "category": "APIs, Data, and ML"
  },
  {
+  "name": "PolyDoc",
+  "url": "https://polydoc.tech",
+  "description": "REST API for HTML to PDF and screenshot generation. Including templates, PDF/A and PDF/UA output, privacy-focused, and more features. The free plan includes 150 conversions/month.",
+  "free_tier": "REST API for HTML to PDF and screenshot generation. Including templates, PDF/A and PDF/UA output, privacy-focused, and more features. The free plan includes 150 conversions/month.",
+  "category": "APIs, Data, and ML"
+ },
+ {
   "name": "Posthook",
   "url": "https://posthook.io",
   "description": "Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.",
@@ -2135,6 +2142,13 @@
   "category": "Tools for Teams and Collaboration"
  },
  {
+  "name": "UserNote",
+  "url": "https://getusernote.com/",
+  "description": "A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.",
+  "free_tier": "A user feedback tool to capture most wanted features, free supports up to 50 feature ideas and unlimited votes.",
+  "category": "Tools for Teams and Collaboration"
+ },
+ {
   "name": "Visual Debug",
   "url": "https://visualdebug.com",
   "description": "A Visual feedback tool for better client-dev communication",
@@ -2893,8 +2907,8 @@
  {
   "name": "tesults.com",
   "url": "https://www.tesults.com",
-  "description": "Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.",
-  "free_tier": "Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.",
+  "description": "Test results reporting, release records and test case management, with an MCP server for AI agents. Free plan with unlimited users, 5 targets, up to 100 test cases per run and 30 days of results history. Free Standard plan for open source projects.",
+  "free_tier": "Test results reporting, release records and test case management, with an MCP server for AI agents. Free plan with unlimited users, 5 targets, up to 100 test cases per run and 30 days of results history. Free Standard plan for open source projects.",
   "category": "Testing"
  },
  {
@@ -3119,6 +3133,13 @@
   "url": "https://otterwatch.dev/",
   "description": "Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.",
   "free_tier": "Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.",
+  "category": "Security and PKI"
+ },
+ {
+  "name": "pkgscan.dev",
+  "url": "https://pkgscan.dev",
+  "description": "Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.",
+  "free_tier": "Multi-engine supply chain scanner for npm, PyPI, VS Code extensions, Cargo, Maven, NuGet, RubyGems, Go and AI agent skills. Checks for malware and known vulnerabilities, including hash lookups that need no upload. Free tier: 5 scans per month with full findings.",
   "category": "Security and PKI"
  },
  {
@@ -3462,6 +3483,13 @@
   "url": "https://distapp.app",
   "description": "Manage and distribute Android, iOS and Desktop apps. Useful for tester or self distribution. Try it for free with 2 apps, 1 org, 100 MB storage with unlimited downloads, or self-hosted your self.",
   "free_tier": "Manage and distribute Android, iOS and Desktop apps. Useful for tester or self distribution. Try it for free with 2 apps, 1 org, 100 MB storage with unlimited downloads, or self-hosted your self.",
+  "category": "Mobile App Distribution and Feedback"
+ },
+ {
+  "name": "WishKit",
+  "url": "https://www.wishkit.io",
+  "description": "In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free forever plan with no card: 1 project, iOS and web SDKs, unlimited users, shows the first 5 feature requests.",
+  "free_tier": "In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free forever plan with no card: 1 project, iOS and web SDKs, unlimited users, shows the first 5 feature requests.",
   "category": "Mobile App Distribution and Feedback"
  },
  {
@@ -4592,6 +4620,13 @@
   "category": "Email"
  },
  {
+  "name": "AliasMail",
+  "url": "https://aliasmail.space/",
+  "description": "Privacy-preserving email forwarding and alias service with HMAC-SHA256 signed webhooks and custom alias handles. Free tier includes permanent email forwarding, custom aliases, and webhook integrations with no credit card required.",
+  "free_tier": "Privacy-preserving email forwarding and alias service with HMAC-SHA256 signed webhooks and custom alias handles. Free tier includes permanent email forwarding, custom aliases, and webhook integrations with no credit card required.",
+  "category": "Email"
+ },
+ {
   "name": "AnonAddy",
   "url": "https://anonaddy.com",
   "description": "Open-source anonymous email forwarding, create unlimited email aliases for free",
@@ -4718,6 +4753,13 @@
   "category": "Email"
  },
  {
+  "name": "eForward",
+  "url": "https://eforward.com",
+  "description": "Email forwarding for custom domains. Free plan includes 1 domain, 1 mailbox, 10 aliases (catch-all ones count too), catch-all, and reply/send from your aliases (up to 5 new recipients a day). No credit card required.",
+  "free_tier": "Email forwarding for custom domains. Free plan includes 1 domain, 1 mailbox, 10 aliases (catch-all ones count too), catch-all, and reply/send from your aliases (up to 5 new recipients a day). No credit card required.",
+  "category": "Email"
+ },
+ {
   "name": "Email Spam Tester",
   "url": "https://email-spam-tester.com/",
   "description": "Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.",
@@ -4785,6 +4827,13 @@
   "url": "https://forwardemail.net",
   "description": "Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)",
   "free_tier": "Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)",
+  "category": "Email"
+ },
+ {
+  "name": "FrostyVerify",
+  "url": "https://frostyverify.com",
+  "description": "Email verification, usable through a web app, a REST API and an MCP server + 1,000 Free Email verifications a month, no card",
+  "free_tier": "Email verification, usable through a web app, a REST API and an MCP server + 1,000 Free Email verifications a month, no card",
   "category": "Email"
  },
  {
@@ -5089,6 +5138,13 @@
   "category": "Email"
  },
  {
+  "name": "VaelMail",
+  "url": "https://vaelmail.com",
+  "description": "Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.",
+  "free_tier": "Privacy-first webmail with deterministic 16-digit account keys and zero phone verification. Free tier includes 50 MB receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw aliases with no credit card required.",
+  "category": "Email"
+ },
+ {
   "name": "Verifalia",
   "url": "https://verifalia.com/email-verification-api",
   "description": "Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.",
@@ -5135,6 +5191,13 @@
   "url": "https://configcat.com",
   "description": "ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.",
   "free_tier": "ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.",
+  "category": "Feature Toggles Management Platforms"
+ },
+ {
+  "name": "Featureflip",
+  "url": "https://featureflip.io/",
+  "description": "Featureflip is a full featured feature flag platform that removes its own dead flags by submitting its own pull requests. Free plan includes 10 flags, 2 environments, 1 project, 3 users, and no usage caps.",
+  "free_tier": "Featureflip is a full featured feature flag platform that removes its own dead flags by submitting its own pull requests. Free plan includes 10 flags, 2 environments, 1 project, 3 users, and no usage caps.",
   "category": "Feature Toggles Management Platforms"
  },
  {
@@ -5264,6 +5327,13 @@
   "category": "Font"
  },
  {
+  "name": "BootForm",
+  "url": "https://bootform.com/",
+  "description": "Form backend for builders. Free plan: 250 submissions a month with unlimited forms. Email and Discord notifications, honeypot/CAPTCHA, and an MCP server so AI coding agents can create and configure forms and manage submissions.",
+  "free_tier": "Form backend for builders. Free plan: 250 submissions a month with unlimited forms. Email and Discord notifications, honeypot/CAPTCHA, and an MCP server so AI coding agents can create and configure forms and manage submissions.",
+  "category": "Forms"
+ },
+ {
   "name": "FabForm",
   "url": "https://fabform.io/",
   "description": "Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.",
@@ -5348,6 +5418,13 @@
   "category": "Forms"
  },
  {
+  "name": "Formlane",
+  "url": "https://smallwerk.com/formlane",
+  "description": "Formlane is a form backend for static websites, site builders or AI-built apps. One endpoint gets email notifications with reply-to, spam-filtering without captcha and a CSV export. All submissions are stored in Frankfurt. Free Plan: 250 submissions/mo, no trial.",
+  "free_tier": "Formlane is a form backend for static websites, site builders or AI-built apps. One endpoint gets email notifications with reply-to, spam-filtering without captcha and a CSV export. All submissions are stored in Frankfurt. Free Plan: 250 submissions/mo, no trial.",
+  "category": "Forms"
+ },
+ {
   "name": "formlets.com",
   "url": "https://formlets.com/",
   "description": "Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.",
@@ -5429,6 +5506,13 @@
   "url": "https://www.makeform.ai/",
   "description": "Chat-based form builder. The free form builder with unlimited forms and submissions. 99% of the features are free, includes adding logos, conditional logic, file uploads, payments, integrations, and webhooks. Pro Plan ($19/month) enables remove the Makeform Branding, custom domains and team features. Business plan ($59/month) enables RBAC, email verification and single sign on (SSO).",
   "free_tier": "Chat-based form builder. The free form builder with unlimited forms and submissions. 99% of the features are free, includes adding logos, conditional logic, file uploads, payments, integrations, and webhooks. Pro Plan ($19/month) enables remove the Makeform Branding, custom domains and team features. Business plan ($59/month) enables RBAC, email verification and single sign on (SSO).",
+  "category": "Forms"
+ },
+ {
+  "name": "Nisuform",
+  "url": "https://nisuform.com",
+  "description": "Simple, Easy and Secure form backend for any websites with beautiful form template and intuitive form builder. AI ready with MCP. Free plan includes 100 free submissions, spam protection and turnstile.",
+  "free_tier": "Simple, Easy and Secure form backend for any websites with beautiful form template and intuitive form builder. AI ready with MCP. Free plan includes 100 free submissions, spam protection and turnstile.",
   "category": "Forms"
  },
  {
@@ -6290,6 +6374,13 @@
   "url": "https://www.netlify.com/",
   "description": "Builds, deploys and hosts static site/app free for 300 credits/month (equals 30 GB bandwidth).",
   "free_tier": "Builds, deploys and hosts static site/app free for 300 credits/month (equals 30 GB bandwidth).",
+  "category": "Web Hosting"
+ },
+ {
+  "name": "Pagehaus",
+  "url": "https://pagehaus.app",
+  "description": "Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.",
+  "free_tier": "Hosting for plain HTML sites, uploaded over SFTP or in the browser. Free plan: 1 site, 250 MB storage, 20 GB transfer/month, HTTPS on a pagehaus.site subdomain, contact forms, Server Side Includes and cookie-free analytics. No expiry, no card.",
   "category": "Web Hosting"
  },
  {
@@ -7777,6 +7868,13 @@
   "category": "Design and UI"
  },
  {
+  "name": "logoapi.sh",
+  "url": "https://logoapi.sh/",
+  "description": "Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 1M free requests a month per site.",
+  "free_tier": "Company logo API with no key or signup, the ideal Clearbit logo API alternative with SVG logos for any domain. 1M free requests a month per site.",
+  "category": "Design and UI"
+ },
+ {
   "name": "marvelapp.com",
   "url": "https://marvelapp.com/",
   "description": "Design, prototyping, and collaboration, free plan limited to one user and project.",
@@ -8066,8 +8164,8 @@
  {
   "name": "stadiamaps.com",
   "url": "https://stadiamaps.com/",
-  "description": "Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.",
-  "free_tier": "Map tiles, routing, navigation, and other geospatial APIs. Two thousand five hundred free map views and API requests/day for non-commercial usage and testing.",
+  "description": "Map tiles, routing, navigation, and other geospatial APIs. 200,000 free credits/month for non-commercial usage and testing.",
+  "free_tier": "Map tiles, routing, navigation, and other geospatial APIs. 200,000 free credits/month for non-commercial usage and testing.",
   "category": "Data Visualization on Maps"
  },
  {
@@ -9251,6 +9349,13 @@
   "url": "https://versionfeeds.com",
   "description": "Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)",
   "free_tier": "Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)",
+  "category": "Miscellaneous"
+ },
+ {
+  "name": "Keeper.sh",
+  "url": "https://www.keeper.sh",
+  "description": "A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.",
+  "free_tier": "A calendar syncing tool that keeps your work, personal, business or student calendars in sync. Free for up to 2 calendars, 3 connections, and give your agent or scripts access to read and modify your calendars with up to 25 calls per day.",
   "category": "Miscellaneous"
  },
  {
