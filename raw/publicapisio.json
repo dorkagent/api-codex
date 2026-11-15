@@ -1905,6 +1905,15 @@
   "logolink": "/assets/serpapi-logo.svg"
  },
  {
+  "slug": "logimu-api",
+  "title": "Logimu",
+  "website": "https://www.logimu.com",
+  "category": "Data Access",
+  "logolink": "/assets/logimu-api-logo.svg",
+  "category_id": "data-access",
+  "description": "Amazon and Walmart product data API. Access price history, Buy Box, BSR, seller offers, and live search results across 11 Amazon marketplaces and Walmart US."
+ },
+ {
   "title": "Open Government, Canada",
   "description": "Open Canada Government is about making government more accessible to everyone. Participate in conversations, find data and digital records, and learn about open government.",
   "category": "Data Access",
@@ -2268,7 +2277,7 @@
  },
  {
   "title": "Nonprofit Check Plus",
-  "description": "Power your websites and applications with Pactman\u2019s comprehensive nonprofit data.",
+  "description": "Nonprofit verification API for IRS tax-exempt status, OFAC screening, and compliance: BMF, PUB78, AROE and OFAC data sources normalized into one endpoint",
   "category": "Development",
   "category_id": "development",
   "slug": "nonprofit-check-plus-api",
